@@ -102,7 +102,7 @@ Customers were classified into:
 
 ## 📸 Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.jpg)
 
 ---
 
